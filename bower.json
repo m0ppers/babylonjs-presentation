@@ -1,0 +1,8 @@
+{
+  "name": "presentation-babylonjs-3d-web-game-development-made-easy",
+  "version": "0.0.0",
+  "dependencies": {
+    "prism": "gh-pages",
+    "bespoke-theme-voltaire": "~1.0.0"
+  }
+}
